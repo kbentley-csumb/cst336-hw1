@@ -1,0 +1,40 @@
+body {
+    background-color: #193821;
+    color: black;
+    background-image: url("../img/circuit-board.jpg");
+}
+footer {
+    text-align: center;
+    font-size: 0.6em;
+    color: rgb(6, 27, 0);
+}
+
+nav a {
+    padding: 15px;
+    padding-bottom: 4px;
+    font-size: 1.5em;
+    text-decoration: none;
+    color: rgb(2, 41, 2);
+}
+
+.topicsummary {
+    font-size: 1.1em;
+}
+
+nav {
+    text-align: center;
+}
+
+nav a:hover {
+    border-bottom: 2px orange solid;
+    font-size: 2em;
+    transition: .95s;
+}
+
+main {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
