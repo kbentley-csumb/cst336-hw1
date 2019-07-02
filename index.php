@@ -32,7 +32,7 @@
   <div class="topiccontent">
     <div class="topicmedia">
     <a href="gis.php">
-        <img src="img/geospatial1.jpg"/>
+        <img src="img/geospatial1.jpg" alt="Geospatial layers"/>
     </a>
     
     </div>
@@ -45,7 +45,7 @@
   <div class="topiccontent">
     <div class="topicmedia">
     <a href="embedded.php">
-        <img src="img/embedded.jpg"/>
+        <img src="img/embedded.jpg" alt="An embedded system circuit board"/>
     </a>
     </div>
     <div class="topicsummary">
@@ -57,7 +57,7 @@
   <div class="topiccontent">
     <div class="topicmedia">
     <a href="ci.php">
-        <img src="img/ci.png"/>
+        <img src="img/ci.png" alt="A Continuous Integration Flowchart"/>
     </a>
     </div>
     <div class="topicsummary">

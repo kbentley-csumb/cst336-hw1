@@ -34,7 +34,7 @@
 <!-- https://insights.sei.cmu.edu/devops/2015/01/continuous-integration-in-devops-1.html -->
 <div class="topicdetail">
     <div class="floatedright">
-        <img src="img/gis-hydro.png" class="imgborder"/><br/>
+        <img src="img/gis-hydro.png" class="imgborder" alt="Shoreline Map"/><br/>
         <figcaption>A GIS map of shoreline properties in Maryland.</figcaption>
     </div>
 <div class="nofloat">
@@ -53,7 +53,7 @@ GIS systems frequently use software libraries to develop applications. Commercia
 
 <div class="nofloat">
         <a href="https://xkcd.com/2170/">
-        <img src="img/coordinate_precision.png" class="imgborder"/><br/>
+        <img src="img/coordinate_precision.png" class="imgborder" alt="Geographic coordinate precision table"/><br/>
         <figcaption>Above image from: https://xkcd.com/2170/</figcaption>
         
         </a>

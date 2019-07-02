@@ -34,7 +34,7 @@
     <div class="topicdetail">
         <h2>Continuous Integration</h2>
         <div class="floatedright">
-            <img src="img/ci-devops.jpg" class="imgborder"/><br/>
+            <img src="img/ci-devops.jpg" class="imgborder" alt="A Continuous Integration Flowchart"/><br/>
             <figcaption>A Continuous Integration System for devops.</figcaption>
         </div>
     <div class="nofloat" >

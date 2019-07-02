@@ -33,7 +33,7 @@ https://www.flickr.com/photos/viagallery/6856347184
 <div class="topicdetail">
 
     <div class="floatedright">
-        <img src="img/kb-workbench.jpg" class="imgborder"/>
+        <img src="img/kb-workbench.jpg" class="imgborder" alt="A workbench with an embedded system"/>
         <figcaption>The author's workbench when developing for an Embedded System</figcaption>
 </div>
 <div class="nofloat">
