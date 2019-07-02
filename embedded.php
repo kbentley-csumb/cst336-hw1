@@ -31,19 +31,23 @@ https://www.flickr.com/photos/viagallery/6856347184
 
 -->
 <div class="topicdetail">
-<h2>Embedded Systems</h2>
+
     <div class="floatedright">
         <img src="img/kb-workbench.jpg" class="imgborder"/>
 </div>
 <div class="nofloat">
+<h3>Embedded Systems</h3>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Nearly everyone interacts with embedded systems every day. Your car, microwave oven, tv, and even alarm clock all most likely contain one or more embedded systems. Embedded systems are easy to think of as small computers, but they are really more complex than that. They typically include some sort of microprocessor that interacts with electronics hardware, as well as some read-only memory.
 </p>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+One type of Embedded system is a real-time system. In these systems, the processing speed may not be as improtant as the reaction speed. A simple 8-bit processor that can react to a signal within a few microseconds may do a job that a modern 3ghz processor cannot do. That is because an embedded system frequently needs to react very quickly, especially when communications with other devices are involved. Determining the engine speed in a vehicle may involved counting pulses from the engine. If the processor can't react fast enough to count each pulse, the speed will be read incorrectly. Modern, fast CPUs are optimized for overall processing speed, and may be in the middle of a background memory operation, and unable to be interrupted immediately. If an embedded system is only doing one thing at a time, it can react very quickly, even when the clock speed is slower.
 </p>
 
+<p>
+Working with embedded systems generally requires some low level programming skills in a language such as C. Assembly language programming is frequently needed because of the importance of timing. Some experience with electronics is also helpful. 
+</p>
 
 Some of the information on this page came from the following site, where you can find additional information: <a href="https://www.slideshare.net/yayavaram/introduction-to-embedded-systems-2614825">https://www.slideshare.net/yayavaram/introduction-to-embedded-systems-2614825</a>
     </div>
