@@ -13,24 +13,59 @@
         <hr/>
         
         <nav>
-          <!--<a href="index.php" class="menuselected">Home</a><br>-->
-          <a href="gis.php">Geospatial Information Systems</a><br>
-          <p class="topicsummary">this is some information about GIS systems.</p>
-          <a href="embedded.php">Embedded Systems</a><br>
-          <p class="topicsummary">this is some information about Embedded systems.</p>
-          <a href="ci.php">Continuous Integration</a><br>
-          <p class="topicsummary">this is some information about CI systems.</p>
+          <a href="index.php" class="menuselected">Home</a>
+          <a href="gis.php">Geospatial Information Systems</a>          
+          <a href="embedded.php">Embedded Systems</a>          
+          <a href="ci.php">Continuous Integration</a>
+          
         </nav>
-        
+        <hr/>
+        <div>
+          <br/>
+          <h2>
+          Click on one of the above links to learn more about these topics.
+          </h2>
+        </div>
 <main>
-<br/>
-<h2>
-Click on one of the above links to learn about the topic.
-</h2>
+  
 
-<br/><br/>
+  <div class="topiccontent">
+    <div class="topicmedia">
+    <a href="gis.php">
+        <img src="img/geospatial1.jpg"/>
+    </a>
+    
+    </div>
+    <div class="topicsummary">
+    <h3>Geographic Information Systems</h3>
+    Geographic Information Systems (GIS) are used to store and analyze all types of data with a geographic location as an attribute. GIS systems power everything from Google Maps to the legal description of property lines.
+    </div>
+  </div>
+    <hr/>
+  <div class="topiccontent">
+    <div class="topicmedia">
+    <a href="embedded.php">
+        <img src="img/embedded.jpg"/>
+    </a>
+    </div>
+    <div class="topicsummary">
+    <h3>Embedded Systems</h3>
+    Embedded Systems are complex computers that power our cars, traffic lights, microwave ovens, televisions, and more. Embedded Systems take many forms, but they are all computers.
+    </div>
+  </div>
+  <hr/>
+  <div class="topiccontent">
+    <div class="topicmedia">
+    <a href="ci.php">
+        <img src="img/ci.png"/>
+    </a>
+    </div>
+    <div class="topicsummary">
+    <h3>Continuous Integration</h3>
+    this is some information about Continuous Integration systems
+    </div>
+  </div>
 </main>
-
         <footer>
             CST336 Internet Programming. <br/>
             Background image from <a href="https://www.pexels.com/photo/technology-computer-lines-board-50711/">https://www.pexels.com/photo/technology-computer-lines-board-50711/</a><br>
