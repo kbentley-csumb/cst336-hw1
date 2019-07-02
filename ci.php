@@ -35,6 +35,7 @@
         <h2>Continuous Integration</h2>
         <div class="floatedright">
             <img src="img/ci-devops.jpg" class="imgborder"/><br/>
+            <figcaption>A Continuous Integration System for devops.</figcaption>
         </div>
     <div class="nofloat" >
         <p> 
@@ -63,7 +64,10 @@ A typical automated CI system might check out the latest code whenever a change 
 </main>
         <footer>
             CST336 Internet Programming. <br/>
-            Background image from <a href="https://www.pexels.com/photo/technology-computer-lines-board-50711/">https://www.pexels.com/photo/technology-computer-lines-board-50711/</a><br>
+            <details>
+            <summary>Background Image</summary>
+              Background image from <a href="https://www.pexels.com/photo/technology-computer-lines-board-50711/">https://www.pexels.com/photo/technology-computer-lines-board-50711/</a><br>
+            </details>
             2019&copy; Kevin Bentley<br/>
             <strong>Disclaimer</strong> This information is only for academic purposes. The information herein, while accurate, may be incomplete.
                 <br/>

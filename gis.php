@@ -35,6 +35,7 @@
 <div class="topicdetail">
     <div class="floatedright">
         <img src="img/gis-hydro.png" class="imgborder"/><br/>
+        <figcaption>A GIS map of shoreline properties in Maryland.</figcaption>
     </div>
 <div class="nofloat">
   <h3>Geographic Information Systems</h3>
@@ -53,7 +54,8 @@ GIS systems frequently use software libraries to develop applications. Commercia
 <div class="nofloat">
         <a href="https://xkcd.com/2170/">
         <img src="img/coordinate_precision.png" class="imgborder"/><br/>
-        Above image from: https://xkcd.com/2170/
+        <figcaption>Above image from: https://xkcd.com/2170/</figcaption>
+        
         </a>
   </div>
       <p>
@@ -64,7 +66,10 @@ GIS systems frequently use software libraries to develop applications. Commercia
 </main>
         <footer>
             CST336 Internet Programming. <br/>
-            Background image from <a href="https://www.pexels.com/photo/technology-computer-lines-board-50711/">https://www.pexels.com/photo/technology-computer-lines-board-50711/</a><br>
+            <details>
+            <summary>Background Image</summary>
+              Background image from <a href="https://www.pexels.com/photo/technology-computer-lines-board-50711/">https://www.pexels.com/photo/technology-computer-lines-board-50711/</a><br>
+            </details>
             2019&copy; Kevin Bentley<br/>
             <strong>Disclaimer</strong> This information is only for academic purposes. The information herein, while accurate, may be incomplete.
                 <br/>

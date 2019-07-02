@@ -34,6 +34,7 @@ https://www.flickr.com/photos/viagallery/6856347184
 
     <div class="floatedright">
         <img src="img/kb-workbench.jpg" class="imgborder"/>
+        <figcaption>The author's workbench when developing for an Embedded System</figcaption>
 </div>
 <div class="nofloat">
 <h3>Embedded Systems</h3>
@@ -56,7 +57,10 @@ Some of the information on this page came from the following site, where you can
 </main>
         <footer>
             CST336 Internet Programming. <br/>
-            Background image from <a href="https://www.pexels.com/photo/technology-computer-lines-board-50711/">https://www.pexels.com/photo/technology-computer-lines-board-50711/</a><br>
+            <details>
+            <summary>Background Image</summary>
+              Background image from <a href="https://www.pexels.com/photo/technology-computer-lines-board-50711/">https://www.pexels.com/photo/technology-computer-lines-board-50711/</a><br>
+            </details>
             2019&copy; Kevin Bentley<br/>
             <strong>Disclaimer</strong> This information is only for academic purposes. The information herein, while accurate, may be incomplete.
                 <br/>

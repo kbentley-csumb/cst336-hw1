@@ -68,7 +68,10 @@
 </main>
         <footer>
             CST336 Internet Programming. <br/>
-            Background image from <a href="https://www.pexels.com/photo/technology-computer-lines-board-50711/">https://www.pexels.com/photo/technology-computer-lines-board-50711/</a><br>
+            <details>
+            <summary>Background Image</summary>
+              Background image from <a href="https://www.pexels.com/photo/technology-computer-lines-board-50711/">https://www.pexels.com/photo/technology-computer-lines-board-50711/</a><br>
+            </details>
             2019&copy; Kevin Bentley<br/>
             <strong>Disclaimer</strong> This information is only for academic purposes. The information herein, while accurate, may be incomplete.
                 <br/>
