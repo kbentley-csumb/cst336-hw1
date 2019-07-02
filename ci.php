@@ -27,16 +27,17 @@
         <hr/>
         <div>
           <br/>
-          <h2>
-          Click on one of the above links to learn more about the topics.
-          </h2>
         </div>
 <main>
   <!-- https://blog.meuleman.io/en/continuous-integration-for-embedded-firmware -->
 
     <div class="topicdetail">
-        <img src="img/ci-devops.jpg"/><br/>
-<p>
+        <h2>Continuous Integration</h2>
+        <div class="floatedright">
+            <img src="img/ci-devops.jpg" class="imgborder"/><br/>
+        </div>
+    <div class="nofloat" >
+        <p> 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </p>
 
@@ -46,6 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
         Some of the information on this page came from the following site, where you can find additional information: <a href="https://insights.sei.cmu.edu/devops/2015/01/continuous-integration-in-devops-1.html">https://insights.sei.cmu.edu/devops/2015/01/continuous-integration-in-devops-1.html</a>
+    </div>
     </div>
 </main>
         <footer>

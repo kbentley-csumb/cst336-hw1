@@ -33,8 +33,11 @@
 
 <!-- https://insights.sei.cmu.edu/devops/2015/01/continuous-integration-in-devops-1.html -->
 <div class="topicdetail">
-        <img src="img/gis-hydro.png"/><br/>
-<p>
+    <div class="floatedright">
+        <img src="img/gis-hydro.png" class="imgborder"/><br/>
+    </div>
+<div class="nofloat">
+    <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </p>
 
@@ -45,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
         Some of the information on this page came from the following site, where you can find additional information: <a href="https://mgimond.github.io/Spatial/introGIS.html">https://mgimond.github.io/Spatial/introGIS.html</a>
     </div>
-  
+    </div>
 </main>
         <footer>
             CST336 Internet Programming. <br/>

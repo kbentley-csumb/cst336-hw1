@@ -22,9 +22,7 @@
         <hr/>
         <div>
           <br/>
-          <h2>
-          Click on one of the above links to learn more about the topics.
-          </h2>
+          
         </div>
 <main>
   <!-- https://commons.wikimedia.org/wiki/File:Industrial-computer.jpg 
@@ -33,7 +31,11 @@ https://www.flickr.com/photos/viagallery/6856347184
 
 -->
 <div class="topicdetail">
-        <img src="img/kb-workbench.jpg"/><br/>
+<h2>Embedded Systems</h2>
+    <div class="floatedright">
+        <img src="img/kb-workbench.jpg" class="imgborder"/>
+</div>
+<div class="nofloat">
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 </p>
@@ -45,7 +47,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Some of the information on this page came from the following site, where you can find additional information: <a href="https://www.slideshare.net/yayavaram/introduction-to-embedded-systems-2614825">https://www.slideshare.net/yayavaram/introduction-to-embedded-systems-2614825</a>
     </div>
-
+</div>
   
 </main>
         <footer>
