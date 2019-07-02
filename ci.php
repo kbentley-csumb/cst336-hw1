@@ -38,12 +38,23 @@
         </div>
     <div class="nofloat" >
         <p> 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Developing complex software can require coordination between a lot of people and processes. Automated testing can save a lot of time. Continuous Integration is used to reduce the time between software development and testing. The sooner issues are identified, the sooner they can be fixed. If bugs are fixed more quickly, they will be less likely to interrupt the work of others.
 </p>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Continuous Integration can include many processes, including:
 </p>
+<ul>
+  <li>Automatic Software Builds</li>
+  <li>Static Analysis</li>
+  <li>Unit Testing</li>
+  <li>Acceptance Testing</li>
+  <li>Automated Notification of test failures</li>
+</ul>
+<p>
+A typical automated CI system might check out the latest code whenever a change is made. Once the latest software is retrieved, it will be analyzed, compiled, and tested. If any errors are identified, the programmer is notified. Depending on the system, the code that caused the error will be rejected until the developer fixes the problem.
+</p>
+<p>Continuous Integration systems can improve the quality of software, and help teams work together more productively. Such a system can take some work to setup initially, but for many projects, it can be worth the effort.
 
 
         Some of the information on this page came from the following site, where you can find additional information: <a href="https://insights.sei.cmu.edu/devops/2015/01/continuous-integration-in-devops-1.html">https://insights.sei.cmu.edu/devops/2015/01/continuous-integration-in-devops-1.html</a>
