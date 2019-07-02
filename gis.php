@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
     <head>
         <meta charset="utf-8" />
@@ -34,8 +34,10 @@
 <!-- https://insights.sei.cmu.edu/devops/2015/01/continuous-integration-in-devops-1.html -->
 <div class="topicdetail">
     <div class="floatedright">
+      <figure>
         <img src="img/gis-hydro.png" class="imgborder" alt="Shoreline Map"/><br/>
         <figcaption>A GIS map of shoreline properties in Maryland.</figcaption>
+      </figure>
     </div>
 <div class="nofloat">
   <h3>Geographic Information Systems</h3>
@@ -52,11 +54,13 @@ GIS systems frequently use software libraries to develop applications. Commercia
 </p>
 
 <div class="nofloat">
+    <figure>
         <a href="https://xkcd.com/2170/">
         <img src="img/coordinate_precision.png" class="imgborder" alt="Geographic coordinate precision table"/><br/>
-        <figcaption>Above image from: https://xkcd.com/2170/</figcaption>
-        
         </a>
+        <figcaption>Above image from: https://xkcd.com/2170/</figcaption>        
+        
+    </figure>
   </div>
       <p>
           Some of the information on this page came from the following site, where you can find additional information: <a href="https://mgimond.github.io/Spatial/introGIS.html">https://mgimond.github.io/Spatial/introGIS.html</a>

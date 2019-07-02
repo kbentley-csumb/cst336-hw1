@@ -4,7 +4,7 @@
 
 
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
     <head>
         <meta charset="utf-8" />
@@ -34,8 +34,10 @@
     <div class="topicdetail">
         <h2>Continuous Integration</h2>
         <div class="floatedright">
+        <figure>
             <img src="img/ci-devops.jpg" class="imgborder" alt="A Continuous Integration Flowchart"/><br/>
             <figcaption>A Continuous Integration System for devops.</figcaption>
+        </figure>
         </div>
     <div class="nofloat" >
         <p> 

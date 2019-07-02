@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
     <head>
         <meta charset="utf-8" />
@@ -33,8 +33,10 @@ https://www.flickr.com/photos/viagallery/6856347184
 <div class="topicdetail">
 
     <div class="floatedright">
+    <figure>
         <img src="img/kb-workbench.jpg" class="imgborder" alt="A workbench with an embedded system"/>
         <figcaption>The author's workbench when developing for an Embedded System</figcaption>
+    </figure>
 </div>
 <div class="nofloat">
 <h3>Embedded Systems</h3>
