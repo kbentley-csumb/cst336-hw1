@@ -14,7 +14,7 @@
         
         <nav>
           <a href="index.php" class="menuselected">Home</a>
-          <a href="gis.php">Geospatial Information Systems</a>          
+          <a href="gis.php">Geographic Information Systems</a>          
           <a href="embedded.php">Embedded Systems</a>          
           <a href="ci.php">Continuous Integration</a>
           
@@ -62,7 +62,7 @@
     </div>
     <div class="topicsummary">
     <h3>Continuous Integration</h3>
-    this is some information about Continuous Integration systems
+    Continuous Integration is a development methodology that aims to keep all of the developers working in the same code base on a continous basis. Automated systems are usually employed to build and perform tests on software, and alert the team when something goes wrong.
     </div>
   </div>
 </main>
